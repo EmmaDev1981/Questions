@@ -1,4 +1,5 @@
 <template>
+
  <div>
       <img v-if="img" :src="img" alt="bg">
     <div class="bg-dark"></div>
