@@ -8,7 +8,6 @@
             type="text"
             placeholder="make a question here...">
         <p>END THE QUESTION WITH (?)</p>
-
         <div v-if="isValidQuestion">
             <h2>{{ question }}</h2>
             <h1>{{ answer }}</h1>
