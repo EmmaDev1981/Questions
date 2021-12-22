@@ -12,8 +12,6 @@
         <div v-if="isValidQuestion">
             <h2>{{ question }}</h2>
             <h1>{{ answer }}</h1>
-            <!-- Si!: YES -->
-            <!-- No!: No -->
         </div>
     </div>
  </div>
